@@ -1,0 +1,17 @@
+{{ define "main"}}
+
+<div class="text-404">
+  <h1 class="error-emoji"></h1>
+  <h2>
+      404 ... {{ i18n "error404" . }}
+  </h2>
+</div>
+<script>
+  const errorEmojiContainer = document.getElementsByClassName('error-emoji')[0];
+  const emojiArray = ['🐶', '🐱', '🐭', '🐹', '🐰', '🦊', '🐻', '🐼', '🐨', '🐯', '🦁', '🐮', '🐷', '🐸', '🐵']
+  ;
+  const errorEmoji = emojiArray[Math.floor(Math.random() * emojiArray.length)];
+  errorEmojiContainer.appendChild(document.createTextNode(errorEmoji));
+</script>
+
+{{- end }}{{/* end main */ -}}

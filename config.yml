@@ -1,0 +1,63 @@
+baseURL:  ''
+languageCode: 'en-us'
+title: 'Pritpal Singh'
+theme: "PaperMod"
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    # taxonomies:
+    #   category: categories
+    #   tag: tags
+    #   series: series
+    menu:
+      main:
+        # -name: Home
+        #   url: "https://www.amazon.in/"
+        #   weight: 10
+        - name: About Me
+          url: about_me/
+          weight: 20
+        - name: Projects
+          url: /projects
+          weight: 30
+        # - name: Posts
+        #   url: /posts
+        #   weight: 40
+
+params:
+  mainSections:
+    - Projects
+    - About Me
+  
+  homeInfoParams:
+    title: " Hi, I'm Pritpal👋"
+    content: "  ##  A Computer Science Student & an ML Enthusiast.
+    
+    • I type 250 words a minute, still my girlfriend complains 'You are not good with fingers!' Idk what else she wants? 😕
+
+
+    • I will beat you at chess (unless you are good at chess). 
+
+
+    • I'm thinking of training a model to detect dad jokes. It'll have to have a 'pun'-detection layer!
+
+
+    "
+
+  socialIcons:
+    - name: github
+      title: See my latest projects on github
+      url: "https://github.com/pritpalcodes"
+    - name: linkedin
+      title: See a more professional photo of me @ linkedin
+      url: "www.linkedin.com/in/oye-pritpal/"
+    - name: discord
+      title: Even I am figuring out how to use Discord
+      url: "https://discord.com/"
+    - name: X
+      title: Say hi on X/Twitter
+      url: https://twitter.com/oye_pritpal
+
+  
