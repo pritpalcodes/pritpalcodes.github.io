@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IPL Win Probability Prediction on Pritpal Singh</title>
+    <link>http://localhost:1313/tags/ipl-win-probability-prediction/</link>
+    <description>Recent content in IPL Win Probability Prediction on Pritpal Singh</description>
+    <generator>Hugo -- 0.124.1</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Apr 2024 01:29:35 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ipl-win-probability-prediction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IPL Win Probability Prediction</title>
+      <link>http://localhost:1313/projects/ipl_prob/</link>
+      <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
+      <guid>http://localhost:1313/projects/ipl_prob/</guid>
+      <description>IPL Win Probability Prediction. Have you ever checked the live score of any cricket match on google? I bet you have. And if you are a cricket fan, you would have noticed google offers a live win probability prediction for any cricket match. My inner child (and my 2rd yr Minor Project Deadline) motivated me to develop an end-to-end machine learning project using Python to predict the probability of an IPL cricket team winning a match given an instance of the match.</description>
+    </item>
+  </channel>
+</rss>

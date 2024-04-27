@@ -3,6 +3,14 @@ languageCode: 'en-us'
 title: 'Pritpal Singh'
 theme: "PaperMod"
 
+# enableInlineShortcodes: true
+# enableRobotsTXT: true
+# buildDrafts: false
+# buildFuture: false
+# buildExpired: false
+# enableEmoji: true
+# pygmentsUseClasses: true
+
 languages:
   en:
     languageName: "English"
@@ -22,11 +30,40 @@ languages:
         - name: Projects
           url: /projects
           weight: 30
+        - name: Tags
+          url: /tags
+          weight: 40
         # - name: Posts
         #   url: /posts
         #   weight: 40
 
 params:
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  # ShowShareButtons: true
+  # ShowPostNavLinks: true
+  ShowWordCount: true
+  # ShowRssButtonInSectionTermList: true
+  # ShowRssButtonInSectionList: true
+  # ShowRssButtonInHomePage: true
+  # ShowBrandIcon: true
+  ShowCodeCopyButtons: true
+  # ShowWordCount: true
+  ShowToc: true
+  ShowEditPageButtons: true
+  # ShowComments: true
+  # ShowLastmod: true
+  # ShowRelatedPosts: true
+  # ShowSearch: true
+  ShowTags: true
+  # ShowTaxonomyCloud: true
+  # ShowPagination: true
+  # ShowReadingTime: true
+  # ShowShareButtons: true
+
+
+
+
   mainSections:
     - Projects
     - About Me

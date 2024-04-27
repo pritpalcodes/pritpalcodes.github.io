@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Machine Learning on Pritpal Singh</title>
+    <link>http://localhost:1313/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Pritpal Singh</description>
+    <generator>Hugo -- 0.124.1</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Apr 2024 01:29:35 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CAPEC Web Attack Classifier</title>
+      <link>http://localhost:1313/projects/capec/</link>
+      <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
+      <guid>http://localhost:1313/projects/capec/</guid>
+      <description>CAPEC Web Attack Classifier. This machine learning (ML) project focuses on the identification and classification of web attacks by leveraging advanced multilabel machine learning algorithms. The primary objective is to categorize web attacks into Common Attack Pattern Enumeration and Classification (CAPEC) categories, providing a comprehensive understanding of the threats posed to web applications. The project employs a diverse set of multilabel machine learning algorithms, including but not limited to Binary Relevance, Random Forest, Label Powerset, Multi-Output Classifier, and LightGBM.</description>
+    </item>
+    <item>
+      <title>Gesture Based Gamification</title>
+      <link>http://localhost:1313/projects/gesture_based_gamification/</link>
+      <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
+      <guid>http://localhost:1313/projects/gesture_based_gamification/</guid>
+      <description>Computer Vision Gesture Based Gamification Implemented a hand detection algorithm to identify hand movements through the webcam. Utilized finger position tracking to recognize specific gestures corresponding to game controls. Interfaced with the game via simulated keyboard inputs, enabling seamless control based on detected gestures. Provided a dynamic and immersive gaming experience, allowing players to interact with the game using intuitive hand gestures. Operating Systems Multy Threaded Proxy Server. This project is implemented using C and Parsing of HTTP referred from the Proxy Server.</description>
+    </item>
+    <item>
+      <title>IPL Win Probability Prediction</title>
+      <link>http://localhost:1313/projects/ipl_prob/</link>
+      <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
+      <guid>http://localhost:1313/projects/ipl_prob/</guid>
+      <description>IPL Win Probability Prediction. Have you ever checked the live score of any cricket match on google? I bet you have. And if you are a cricket fan, you would have noticed google offers a live win probability prediction for any cricket match. My inner child (and my 2rd yr Minor Project Deadline) motivated me to develop an end-to-end machine learning project using Python to predict the probability of an IPL cricket team winning a match given an instance of the match.</description>
+    </item>
+  </channel>
+</rss>
