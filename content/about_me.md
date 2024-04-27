@@ -6,11 +6,6 @@ draft = false
 <!-- ## Why you might want to g̶o̶ ̶o̶n̶ ̶a̶ ̶d̶a̶t̶e̶ ̶w̶i̶t̶h̶ ̶m̶e̶ give me a job -->
 > ### why you might want to ~~go on a date with me~~ give me a job!
 
-
-```
-lets see is this is rendered as a code block?
-```
-
 My name is **Pritpal (प्रित्पाल/ਪ੍ਰਿਤਪਾਲ) Singh**, however I am famous among my friends as **Preeto**. You can use the pronouns: _he/him/his_ when you talk about me in English. 
 
 
