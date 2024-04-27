@@ -23,10 +23,17 @@
       <description></description>
     </item>
     <item>
-      <title>Compputer Vision</title>
-      <link>http://localhost:1313/tags/compputer-vision/</link>
+      <title>Computer Vision</title>
+      <link>http://localhost:1313/tags/computer-vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/compputer-vision/</guid>
+      <guid>http://localhost:1313/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gesture Recognition Two Commands</title>
+      <link>http://localhost:1313/tags/gesture-recognition-two-commands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gesture-recognition-two-commands/</guid>
       <description></description>
     </item>
     <item>
@@ -41,6 +48,13 @@
       <link>http://localhost:1313/tags/machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenCV</title>
+      <link>http://localhost:1313/tags/opencv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/opencv/</guid>
       <description></description>
     </item>
     <item>

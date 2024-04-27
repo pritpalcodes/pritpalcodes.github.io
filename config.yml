@@ -39,18 +39,17 @@ languages:
 
 params:
   ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
   ShowReadingTime: true
+  # ShowToc: true
+  ShowWordCount: true
   # ShowShareButtons: true
   # ShowPostNavLinks: true
-  ShowWordCount: true
   # ShowRssButtonInSectionTermList: true
   # ShowRssButtonInSectionList: true
   # ShowRssButtonInHomePage: true
   # ShowBrandIcon: true
-  ShowCodeCopyButtons: true
-  # ShowWordCount: true
-  ShowToc: true
-  ShowEditPageButtons: true
+  # ShowEditPageButtons: true
   # ShowComments: true
   # ShowLastmod: true
   # ShowRelatedPosts: true
@@ -79,7 +78,6 @@ params:
 
 
     • I'm thinking of training a model to detect dad jokes. It'll have to have a 'pun'-detection layer!
-
 
     "
 

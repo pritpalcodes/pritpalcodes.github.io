@@ -9,11 +9,19 @@
     <lastBuildDate>Fri, 26 Apr 2024 01:29:35 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/capec-/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CAPEC Web Attack Classifier</title>
-      <link>http://localhost:1313/projects/capec/</link>
+      <title>CAPEC Based Web Attacks Classifier</title>
+      <link>http://localhost:1313/projects/01_capec/</link>
       <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
-      <guid>http://localhost:1313/projects/capec/</guid>
-      <description>CAPEC Web Attack Classifier. This machine learning (ML) project focuses on the identification and classification of web attacks by leveraging advanced multilabel machine learning algorithms. The primary objective is to categorize web attacks into Common Attack Pattern Enumeration and Classification (CAPEC) categories, providing a comprehensive understanding of the threats posed to web applications. The project employs a diverse set of multilabel machine learning algorithms, including but not limited to Binary Relevance, Random Forest, Label Powerset, Multi-Output Classifier, and LightGBM.</description>
+      <guid>http://localhost:1313/projects/01_capec/</guid>
+      <description>This machine learning project focuses on the identification and classification of web attacks by leveraging advanced multilabel machine learning algorithms. The primary objective is to categorize web attacks into Common Attack Pattern Enumeration and Classification categories, providing a comprehensive understanding of the threats posed to web applications. The project employs a diverse set of multilabel machine learning algorithms, including but not limited to Binary Relevance, Random Forest, Label Powerset, Multi-Output Classifier, and LightGBM.</description>
+    </item>
+    <item>
+      <title>Tetris </title>
+      <link>http://localhost:1313/projects/04_tetris/</link>
+      <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
+      <guid>http://localhost:1313/projects/04_tetris/</guid>
+      <description>Tetris Game with Hand Gesture Control About the Project This project implements a Tetris game using Python with the added functionality of controlling the game using hand gestures detected from a webcam feed. The game utilizes the pygame library for graphics, cv2 for webcam access, and mediapipe for hand gesture detection. Players can control the movement of Tetris pieces by gesturing left, right, rotate, and fast-drop.
+Control Flow Display the webcam feed using OpenCV.</description>
     </item>
   </channel>
 </rss>

@@ -1,14 +1,14 @@
 +++
-title = 'CAPEC Web Attack Classifier'    
+title = 'CAPEC Based Web Attacks Classifier'    
 date = 2024-04-26T01:29:35+05:30
 draft = false   
 tags = ["Machine Learning", "Web Attacks", "Classification","CAPEC "]
 +++ 
-
-#### [CAPEC Web Attack Classifier](https://github.com/pritpalcodes/webAttack_Classifier_ML-Model).
+---
+<!-- #### [CAPEC Web Attack Classifier](https://github.com/pritpalcodes/webAttack_Classifier_ML-Model). -->
 <!-- # MULTILABEL CAPEC CLASSIFICATION OF WEB-ATTACKS -->
 
-This machine learning (ML) project focuses on the identification and classification of web attacks by leveraging advanced multilabel machine learning algorithms. The primary objective is to categorize web attacks into Common Attack Pattern Enumeration and Classification (CAPEC) categories, providing a comprehensive understanding of the threats posed to web applications. The project employs a diverse set of multilabel machine learning algorithms, including but not limited to Binary Relevance, Random Forest, Label Powerset, Multi-Output Classifier, and LightGBM. These algorithms are selected for their ability to handle the complex and interconnected nature of web attack patterns, allowing for a more nuanced and accurate classification of threats.
+This machine learning project focuses on the identification and classification of web attacks by leveraging advanced multilabel machine learning algorithms. The primary objective is to categorize web attacks into Common Attack Pattern Enumeration and Classification categories, providing a comprehensive understanding of the threats posed to web applications. The project employs a diverse set of multilabel machine learning algorithms, including but not limited to Binary Relevance, Random Forest, Label Powerset, Multi-Output Classifier, and LightGBM. These algorithms are selected for their ability to handle the complex and interconnected nature of web attack patterns, allowing for a more nuanced and accurate classification of threats. You can find the project [here](https://github.com/pritpalcodes/webAttack_Classifier_ML-Model).
 
 ## About the Project
 
@@ -19,13 +19,14 @@ The project's goal is to develop a robust model for classifying web attacks base
 
 
 
-## Demo
-Run the file on streamlit server to see the following output:
+## Demonstration
 
-### Classifying a "normal" url
+
+- Classifying a "normal" url
 ![image](https://github.com/pritpalcodes/webAttack_Classifier_ML-Model/assets/90276050/cf635c5a-3777-46ae-ba8b-53b24dfaf32c)
 [request classified as normal(=1)]
-### Classifying a "malicious URL"
+
+- Classifying a "malicious URL"
 ![image](https://github.com/pritpalcodes/webAttack_Classifier_ML-Model/assets/90276050/000d6795-ea50-4b19-a42c-fb966384b7b1)
 [request classified as not normal(=0), protocol manipulation and path traversal attacks identified]
 
