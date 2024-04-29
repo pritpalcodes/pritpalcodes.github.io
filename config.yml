@@ -1,4 +1,4 @@
-baseURL:  'https://pritpalcodes.netlify.app/'
+baseURL:  ''
 languageCode: 'en-us'
 title: 'Pritpal Singh'
 theme: "PaperMod"
@@ -41,7 +41,6 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowReadingTime: true
-  ShowTags: true
   # ShowToc: true
   ShowWordCount: true
   # ShowShareButtons: true
@@ -55,7 +54,7 @@ params:
   # ShowLastmod: true
   # ShowRelatedPosts: true
   # ShowSearch: true
-  
+  ShowTags: true
   # ShowTaxonomyCloud: true
   # ShowPagination: true
   # ShowReadingTime: true
@@ -76,18 +75,14 @@ params:
     • I'm thinking of training a model to detect dad jokes. It'll have to have a 'pun'-detection layer!
 
     
-
     • I will beat you at chess (unless you are good at chess). 
-
 
 
     • Actively seeking opportunities in Data Science and Machine Learning!
 
 
-
     • I type 250 words a minute, still my girlfriend complains 'You code faster than you text me!' 
-
-
+    
     
     Idk what else she wants? 😕 
     "
