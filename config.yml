@@ -41,6 +41,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowReadingTime: true
+  ShowTags: true
   # ShowToc: true
   ShowWordCount: true
   # ShowShareButtons: true
@@ -54,7 +55,7 @@ params:
   # ShowLastmod: true
   # ShowRelatedPosts: true
   # ShowSearch: true
-  ShowTags: true
+  
   # ShowTaxonomyCloud: true
   # ShowPagination: true
   # ShowReadingTime: true
