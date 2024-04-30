@@ -42,7 +42,7 @@ params:
   ShowCodeCopyButtons: true
   ShowReadingTime: true
   # ShowToc: true
-  ShowWordCount: true
+  # ShowWordCount: true
   # ShowShareButtons: true
   # ShowPostNavLinks: true
   # ShowRssButtonInSectionTermList: true
@@ -62,6 +62,14 @@ params:
 
   # home: "content/index.md"
 
+  assets:
+    favicon: "sikh.png"
+    favicon16x16: "sikh.png"
+    favicon32x32: "sikh.png"
+    apple_touch_icon: "sikh.png"
+    safari_pinned_tab: "sikh.png"
+    theme_color: "#2e2e33"
+    msapplication_TileColor: "#2e2e33"
 
   mainSections:
     - Projects
@@ -70,21 +78,19 @@ params:
   
   homeInfoParams:
     title: " Hi, I'm Pritpal👋"
-    content: "  ##  A Computer Science Student & an ML Enthusiast.
+    content: "  ##  A Computer Science Student & an ML Enthusiast!
     
-    • I'm thinking of training a model to detect dad jokes. It'll have to have a 'pun'-detection layer!
+
+    • I'm thinking of training a model to detect dad jokes. It'll have to have a 'pun'-detection layer
 
     
-    • I will beat you at chess (unless you are good at chess). 
+    • I will beat you at chess (unless you are good at chess)
 
 
-    • Actively seeking opportunities in Data Science and Machine Learning!
+    • I type 200 words a minute; still my girlfriend complains 'You code faster than you text me' 
 
 
-    • I type 250 words a minute, still my girlfriend complains 'You code faster than you text me!' 
-    
-    
-    Idk what else she wants? 😕 
+    > `Actively seeking opportunities in Data Science & Machine Learning!`
     "
 
   socialIcons:

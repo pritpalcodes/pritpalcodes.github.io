@@ -1,12 +1,10 @@
 +++
-title = 'Tetris '    
+title = 'Tetris Game with Hand Gesture Control '    
 date = 2024-04-26T01:29:35+05:30
 draft = false   
 tags = ["Machine Learning", "Web Attacks", "Classification","CAPEC "]
 +++ 
 ---
-
-### Tetris Game with Hand Gesture Control
 
 ## About the Project
 This project implements a Tetris game using Python with the added functionality of controlling the game using hand gestures detected from a webcam feed. The game utilizes the `pygame` library for graphics, `cv2` for webcam access, and `mediapipe` for hand gesture detection. Players can control the movement of Tetris pieces by gesturing left, right, rotate, and fast-drop.

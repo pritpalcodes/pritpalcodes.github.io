@@ -31,19 +31,12 @@ About the Project Description: Created a gesture-based control system for playin
       <description>Have you ever checked the live score of any cricket match on google? I bet you have. And if you are a cricket fan, you would have noticed google offers a live win probability prediction for any cricket match. My inner child (and my 2rd yr Minor Project Deadline) motivated me to develop an end-to-end machine learning project using Python to predict the probability of an IPL cricket team winning a match given an instance of the match.</description>
     </item>
     <item>
-      <title>Tetris </title>
+      <title>Tetris Game with Hand Gesture Control </title>
       <link>//localhost:1313/projects/04_tetris/</link>
       <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
       <guid>//localhost:1313/projects/04_tetris/</guid>
-      <description>Tetris Game with Hand Gesture Control About the Project This project implements a Tetris game using Python with the added functionality of controlling the game using hand gestures detected from a webcam feed. The game utilizes the pygame library for graphics, cv2 for webcam access, and mediapipe for hand gesture detection. Players can control the movement of Tetris pieces by gesturing left, right, rotate, and fast-drop.
-Control Flow Display the webcam feed using OpenCV.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/projects/project4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/project4/</guid>
-      <description>Development Cynthia Ugwu. Developed a modern responsive portfolio website for Cynthia Ugwu, a product designer in Toronto. Demonstrates clean and functional design principles for showcasing design portfolios. Utilized MERN stack (MongoDB, Express.js, React.js, Node.js) for development. Deployed on AWS cloud platform for scalability and reliability. Cavity Wizard Developed Cavity Wizard, an AI-driven initiative by SQH Technologies focusing on dental health education. Implemented MERN stack technology for seamless functionality and user experience.</description>
+      <description>About the Project This project implements a Tetris game using Python with the added functionality of controlling the game using hand gestures detected from a webcam feed. The game utilizes the pygame library for graphics, cv2 for webcam access, and mediapipe for hand gesture detection. Players can control the movement of Tetris pieces by gesturing left, right, rotate, and fast-drop.
+Control Flow Display the webcam feed using OpenCV. Dynamically adjust the fall speed of Tetris pieces based on gameplay time.</description>
     </item>
   </channel>
 </rss>

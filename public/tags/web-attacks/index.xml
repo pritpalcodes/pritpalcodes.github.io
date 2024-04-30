@@ -16,12 +16,12 @@
       <description>This machine learning project focuses on the identification and classification of web attacks by leveraging advanced multilabel machine learning algorithms. The primary objective is to categorize web attacks into Common Attack Pattern Enumeration and Classification categories, providing a comprehensive understanding of the threats posed to web applications. The project employs a diverse set of multilabel machine learning algorithms, including but not limited to Binary Relevance, Random Forest, Label Powerset, Multi-Output Classifier, and LightGBM.</description>
     </item>
     <item>
-      <title>Tetris </title>
+      <title>Tetris Game with Hand Gesture Control </title>
       <link>//localhost:1313/projects/04_tetris/</link>
       <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
       <guid>//localhost:1313/projects/04_tetris/</guid>
-      <description>Tetris Game with Hand Gesture Control About the Project This project implements a Tetris game using Python with the added functionality of controlling the game using hand gestures detected from a webcam feed. The game utilizes the pygame library for graphics, cv2 for webcam access, and mediapipe for hand gesture detection. Players can control the movement of Tetris pieces by gesturing left, right, rotate, and fast-drop.
-Control Flow Display the webcam feed using OpenCV.</description>
+      <description>About the Project This project implements a Tetris game using Python with the added functionality of controlling the game using hand gestures detected from a webcam feed. The game utilizes the pygame library for graphics, cv2 for webcam access, and mediapipe for hand gesture detection. Players can control the movement of Tetris pieces by gesturing left, right, rotate, and fast-drop.
+Control Flow Display the webcam feed using OpenCV. Dynamically adjust the fall speed of Tetris pieces based on gameplay time.</description>
     </item>
   </channel>
 </rss>
