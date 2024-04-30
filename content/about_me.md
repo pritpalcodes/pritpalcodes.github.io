@@ -35,4 +35,4 @@ During my 3rd and 4th Semester of my college, I ventured into the entrepreneuria
 
 Currently, I'm knee-deep in the fascinating world of [BCI](linktothephoto) and EEG signals, exploring the mind-bending possibilities at the intersection of neuroscience and tech.
 
-I am fluent in English, Hindi, Punjabi, C++, Python, Java Script, SQL, C, Node.js, MongoDB and BrainF**k(https://gist.github.com/roachhd/dce54bec8ba55fb17d3a). And I have a decent level of proficiency in French, Poetry, React, Flask, Tensorflow, Pytorch, and Langchain. I swim, bike, run, and draw in my free time. 
+I am fluent in English, Hindi, Punjabi, C++, Python, Java Script, SQL, C, Node.js, MongoDB and [BrainF**k](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a). And I have a decent level of proficiency in French, Poetry, React, Flask, Tensorflow, Pytorch, and Langchain. I swim, bike, run, and draw in my free time. 
