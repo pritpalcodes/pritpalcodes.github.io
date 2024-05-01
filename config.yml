@@ -62,15 +62,6 @@ params:
 
   # home: "content/index.md"
 
-  assets:
-    favicon: "sikh.png"
-    favicon16x16: "sikh.png"
-    favicon32x32: "sikh.png"
-    apple_touch_icon: "sikh.png"
-    safari_pinned_tab: "sikh.png"
-    theme_color: "#2e2e33"
-    msapplication_TileColor: "#2e2e33"
-
   mainSections:
     - Projects
     - About Me
