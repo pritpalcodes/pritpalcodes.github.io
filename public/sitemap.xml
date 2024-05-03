@@ -5,6 +5,12 @@
     <loc>//localhost:1313/projects/03_hillclimbracing/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/blog/</loc>
+    <lastmod>2024-04-26T01:29:35+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/cache/</loc>
+    <lastmod>2024-04-26T01:29:35+05:30</lastmod>
+  </url><url>
     <loc>//localhost:1313/tags/capec-/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
@@ -14,7 +20,16 @@
     <loc>//localhost:1313/tags/classification/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/computer-fundamentals/</loc>
+    <lastmod>2024-04-26T01:29:35+05:30</lastmod>
+  </url><url>
     <loc>//localhost:1313/tags/computer-vision/</loc>
+    <lastmod>2024-04-26T01:29:35+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/flask/</loc>
+    <lastmod>2024-04-26T01:29:35+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/lmao/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/gesture-recognition-two-commands/</loc>
@@ -26,10 +41,22 @@
     <loc>//localhost:1313/projects/02_ipl_prob/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/locks/</loc>
+    <lastmod>2024-04-26T01:29:35+05:30</lastmod>
+  </url><url>
     <loc>//localhost:1313/tags/machine-learning/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
+    <loc>//localhost:1313/projects/05_multithreaded_proxyserver/</loc>
+    <lastmod>2024-04-26T01:29:35+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/multithreadedproxyserver/</loc>
+    <lastmod>2024-04-26T01:29:35+05:30</lastmod>
+  </url><url>
     <loc>//localhost:1313/tags/opencv/</loc>
+    <lastmod>2024-04-26T01:29:35+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/operating-system/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
@@ -38,7 +65,13 @@
     <loc>//localhost:1313/projects/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/python/</loc>
+    <lastmod>2024-04-26T01:29:35+05:30</lastmod>
+  </url><url>
     <loc>//localhost:1313/tags/regression/</loc>
+    <lastmod>2024-04-26T01:29:35+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/semaphore/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>

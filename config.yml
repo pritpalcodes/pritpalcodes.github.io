@@ -3,6 +3,8 @@ languageCode: 'en-us'
 title: 'Pritpal Singh'
 theme: "PaperMod"
 
+paginate: 5
+
 # enableInlineShortcodes: true
 # enableRobotsTXT: true
 # buildDrafts: false
@@ -41,10 +43,10 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowReadingTime: true
-  # ShowToc: true
+  ShowToc: true
   # ShowWordCount: true
   # ShowShareButtons: true
-  # ShowPostNavLinks: true
+  ShowPostNavLinks: true
   # ShowRssButtonInSectionTermList: true
   # ShowRssButtonInSectionList: true
   # ShowRssButtonInHomePage: true
@@ -56,15 +58,15 @@ params:
   # ShowSearch: true
   ShowTags: true
   # ShowTaxonomyCloud: true
-  # ShowPagination: true
+  ShowPagination: true
   # ShowReadingTime: true
-  # ShowShareButtons: true
+  ShowShareButtons: true
 
   # home: "content/index.md"
 
-  mainSections:
-    - Projects
-    - About Me
+  # mainSections:
+  #   - Projects
+  #   - About Me
 
   
   homeInfoParams:

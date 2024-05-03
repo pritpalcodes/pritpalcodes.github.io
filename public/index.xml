@@ -24,11 +24,26 @@ About the Project Description: Created a gesture-based control system for playin
       <description>This machine learning project focuses on the identification and classification of web attacks by leveraging advanced multilabel machine learning algorithms. The primary objective is to categorize web attacks into Common Attack Pattern Enumeration and Classification categories, providing a comprehensive understanding of the threats posed to web applications. The project employs a diverse set of multilabel machine learning algorithms, including but not limited to Binary Relevance, Random Forest, Label Powerset, Multi-Output Classifier, and LightGBM.</description>
     </item>
     <item>
+      <title>Flask Based Blogging Platform</title>
+      <link>//localhost:1313/projects/lmao/</link>
+      <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
+      <guid>//localhost:1313/projects/lmao/</guid>
+      <description> </description>
+    </item>
+    <item>
       <title>IPL Win Probability Prediction</title>
       <link>//localhost:1313/projects/02_ipl_prob/</link>
       <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
       <guid>//localhost:1313/projects/02_ipl_prob/</guid>
       <description>Have you ever checked the live score of any cricket match on google? I bet you have. And if you are a cricket fan, you would have noticed google offers a live win probability prediction for any cricket match. My inner child (and my 2rd yr Minor Project Deadline) motivated me to develop an end-to-end machine learning project using Python to predict the probability of an IPL cricket team winning a match given an instance of the match.</description>
+    </item>
+    <item>
+      <title>Multi-Threaded Proxy Server</title>
+      <link>//localhost:1313/projects/05_multithreaded_proxyserver/</link>
+      <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
+      <guid>//localhost:1313/projects/05_multithreaded_proxyserver/</guid>
+      <description>This project is implemented using C and Parsing of HTTP referred from Proxy Server Index Project Theory How to Run Demo Contributing Project Theory [Back to top]
+Introduction Basic Working Flow of the Proxy Server: How did we implement Multi-threading? Used Semaphore instead of Condition Variables and pthread_join() and pthread_exit() function. pthread_join() requires us to pass the thread id of the the thread to wait for. Semaphore’s sem_wait() and sem_post() doesn’t need any parameter.</description>
     </item>
     <item>
       <title>Tetris Game with Hand Gesture Control </title>
