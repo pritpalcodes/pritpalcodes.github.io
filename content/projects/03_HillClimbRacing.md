@@ -1,7 +1,7 @@
 +++
 title = 'A Computer Vision Model to play Hill Climb Racing'    
 date = 2024-04-26T01:29:35+05:30
-draft = false   
+draft = false
 tags = ["Machine Learning", "OpenCV", "Computer Vision","Gesture Recognition Two Commands"]
 +++
 --- 
@@ -108,3 +108,8 @@ should be wrapped as **code**.
 
 [Assemble](http://assemble.io) -->
 
+
+how to add cover image
+<!-- [cover]
+    image = "sikh.png"
+    alt = "Sikh" -->

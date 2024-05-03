@@ -24,11 +24,14 @@ About the Project Description: Created a gesture-based control system for playin
       <description>This machine learning project focuses on the identification and classification of web attacks by leveraging advanced multilabel machine learning algorithms. The primary objective is to categorize web attacks into Common Attack Pattern Enumeration and Classification categories, providing a comprehensive understanding of the threats posed to web applications. The project employs a diverse set of multilabel machine learning algorithms, including but not limited to Binary Relevance, Random Forest, Label Powerset, Multi-Output Classifier, and LightGBM.</description>
     </item>
     <item>
-      <title>Flask Based Blogging Platform</title>
-      <link>//localhost:1313/projects/lmao/</link>
+      <title>GoChat!</title>
+      <link>//localhost:1313/projects/06_cli_based_chatapp/</link>
       <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
-      <guid>//localhost:1313/projects/lmao/</guid>
-      <description> </description>
+      <guid>//localhost:1313/projects/06_cli_based_chatapp/</guid>
+      <description>A CLI Messaging App made with GoLang This is a simple command-line interface (CLI) messaging application written in Go. It allows users to send messages between each other, broadcast messages to all users, and view message logs.
+You can run this on replit as well, here.
+Key Components User Struct The User struct represents a user with a unique ID and their message log.
+type User struct { ID int Log []string } Message Struct The Message struct represents a message with sender ID, receiver ID, and content.</description>
     </item>
     <item>
       <title>IPL Win Probability Prediction</title>

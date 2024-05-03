@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CLI on Pritpal Singh</title>
+    <link>//localhost:1313/tags/cli/</link>
+    <description>Recent content in CLI on Pritpal Singh</description>
+    <generator>Hugo -- 0.124.1</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Apr 2024 01:29:35 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/cli/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GoChat!</title>
+      <link>//localhost:1313/projects/06_cli_based_chatapp/</link>
+      <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
+      <guid>//localhost:1313/projects/06_cli_based_chatapp/</guid>
+      <description>A CLI Messaging App made with GoLang This is a simple command-line interface (CLI) messaging application written in Go. It allows users to send messages between each other, broadcast messages to all users, and view message logs.
+You can run this on replit as well, here.
+Key Components User Struct The User struct represents a user with a unique ID and their message log.
+type User struct { ID int Log []string } Message Struct The Message struct represents a message with sender ID, receiver ID, and content.</description>
+    </item>
+  </channel>
+</rss>
