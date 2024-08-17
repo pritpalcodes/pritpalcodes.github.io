@@ -3,7 +3,7 @@ languageCode: 'en-us'
 title: 'Pritpal Singh'
 theme: "PaperMod"
 
-# paginate: 5
+paginate: 5
 
 # enableInlineShortcodes: true
 # enableRobotsTXT: true
@@ -74,7 +74,7 @@ params:
     content: "  ##  A Computer Science Student & an ML Enthusiast!
     
 
-    • Currently in my 3rd year, pursuing a B.Tech in Information Technology from JIIT Noida.
+    • Currently in 4th year, pursuing a B.Tech in Information Technology from JIIT Noida.
 
     
     • I will beat you at chess (unless you are good at chess!)
