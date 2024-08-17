@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>E-Commerce on Pritpal Singh</title>
+    <link>//localhost:1313/tags/e-commerce/</link>
+    <description>Recent content in E-Commerce on Pritpal Singh</description>
+    <generator>Hugo -- 0.124.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Jun 2024 01:29:35 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/e-commerce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>InsightsiQ - Data-Driven Assistant for E-Commerce Sellers</title>
+      <link>//localhost:1313/projects/asdf/</link>
+      <pubDate>Sat, 01 Jun 2024 01:29:35 +0530</pubDate>
+      <guid>//localhost:1313/projects/asdf/</guid>
+      <description>InsightsiQ - Data-Driven Assistant for E-Commerce Sellers Overview InsightsiQ is a powerful, data-driven assistant designed to empower e-commerce sellers with actionable insights. By simplifying complex data into a comprehensive dashboard, InsightsiQ helps sellers make informed decisions, boost sales, and contribute to the overall growth of the e-commerce platform.
+Problem Statement In the fast-paced world of e-commerce, sellers often struggle to make data-driven decisions due to the overwhelming volume of information.</description>
+    </item>
+  </channel>
+</rss>

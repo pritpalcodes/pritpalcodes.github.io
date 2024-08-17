@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>CompileX - Online Coding Platform | Pritpal Singh</title>
+<meta name="keywords" content="Operating Systems, TypeScript, MongoDB, NodeJS">
+<meta name="description" content="CompileX is a comprehensive online coding platform designed to empower developers of all skill levels. This platform offers a space to write and execute code, practice coding skills, and compete in coding contests.
+✨ Features ⚔️ Coding Playground Write, compile, and execute code in a user-friendly editor. Support for at least one compiled language. Real-time error feedback and performance metrics. 🏋️‍♂️ Coding Arena Practice with pre-existing coding problems or upload new problems.">
+<meta name="author" content="">
+<link rel="canonical" href="//localhost:1313/projects/07_compile-x/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.4599eadb9eb2ad3d0a8d6827b41a8fda8f2f4af226b63466c09c5fddbc8706b7.css" integrity="sha256-RZnq256yrT0KjWgntBqP2o8vSvImtjRmwJxf3byHBrc=" rel="preload stylesheet" as="style">
+<link rel="icon" href="//localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="//localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="//localhost:1313/apple-touch-icon.png">
+<link rel="mask-icon" href="//localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="//localhost:1313/projects/07_compile-x/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="//localhost:1313/" accesskey="h" title="Pritpal Singh (Alt + H)">Pritpal Singh</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="//localhost:1313/about_me/" title="About Me">
+                    <span>About Me</span>
+                </a>
+            </li>
+            <li>
+                <a href="//localhost:1313/projects" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="//localhost:1313/tags" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="//localhost:1313/">home</a>&nbsp;»&nbsp;<a href="//localhost:1313/projects/">Projects</a></div>
+    <h1 class="post-title entry-hint-parent">
+      CompileX - Online Coding Platform
+    </h1>
+    <div class="post-meta"><span title='2024-08-17 01:29:35 +0530 IST'>August 17, 2024</span>&nbsp;·&nbsp;2 min
+
+</div>
+  </header> <div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#-features" aria-label="✨ Features">✨ Features</a><ul>
+                        
+                <li>
+                    <a href="#-coding-playground" aria-label="⚔️ Coding Playground">⚔️ Coding Playground</a></li>
+                <li>
+                    <a href="#-coding-arena" aria-label="🏋️‍♂️ Coding Arena">🏋️‍♂️ Coding Arena</a></li>
+                <li>
+                    <a href="#-coding-battleground" aria-label="🎮 Coding Battleground">🎮 Coding Battleground</a></li></ul>
+                </li>
+                <li>
+                    <a href="#-project-structure" aria-label="🛠️ Project Structure">🛠️ Project Structure</a><ul>
+                        
+                <li>
+                    <a href="#-client" aria-label="🌐 Client">🌐 Client</a></li>
+                <li>
+                    <a href="#-server" aria-label="🔧 Server">🔧 Server</a></li></ul>
+                </li>
+                <li>
+                    <a href="#-getting-started" aria-label="🚀 Getting Started">🚀 Getting Started</a><ul>
+                        
+                <li>
+                    <a href="#-prerequisites" aria-label="📋 Prerequisites">📋 Prerequisites</a></li>
+                <li>
+                    <a href="#-installation" aria-label="💻 Installation">💻 Installation</a></li></ul>
+                </li>
+                <li>
+                    <a href="#-usage" aria-label="🎯 Usage">🎯 Usage</a></li>
+                <li>
+                    <a href="#project-screenshots" aria-label="Project ScreenShots">Project ScreenShots</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><hr>
+<p><strong>CompileX</strong> is a comprehensive online coding platform designed to empower developers of all skill levels. This platform offers a space to write and execute code, practice coding skills, and compete in coding contests.</p>
+<h2 id="-features">✨ Features<a hidden class="anchor" aria-hidden="true" href="#-features">#</a></h2>
+<h3 id="-coding-playground">⚔️ Coding Playground<a hidden class="anchor" aria-hidden="true" href="#-coding-playground">#</a></h3>
+<ul>
+<li>Write, compile, and execute code in a user-friendly editor.</li>
+<li>Support for at least one compiled language.</li>
+<li>Real-time error feedback and performance metrics.</li>
+</ul>
+<h3 id="-coding-arena">🏋️‍♂️ Coding Arena<a hidden class="anchor" aria-hidden="true" href="#-coding-arena">#</a></h3>
+<ul>
+<li>Practice with pre-existing coding problems or upload new problems.</li>
+<li>Detailed problem descriptions, constraints, and test cases.</li>
+<li>Solutions can be tested against multiple test cases.</li>
+</ul>
+<h3 id="-coding-battleground">🎮 Coding Battleground<a hidden class="anchor" aria-hidden="true" href="#-coding-battleground">#</a></h3>
+<ul>
+<li>Participate in ongoing contests and view real-time leaderboards.</li>
+<li>Create and host your own coding contests.</li>
+</ul>
+<h2 id="-project-structure">🛠️ Project Structure<a hidden class="anchor" aria-hidden="true" href="#-project-structure">#</a></h2>
+<p>The project is divided into two main parts: <strong>Client</strong> and <strong>Server</strong>.</p>
+<h3 id="-client">🌐 Client<a hidden class="anchor" aria-hidden="true" href="#-client">#</a></h3>
+<ul>
+<li><strong>Components</strong>: Reusable React components used throughout the platform.</li>
+<li><strong>Hooks</strong>: Custom React hooks for managing state and effects.</li>
+<li><strong>Pages</strong>: Individual pages for different parts of the application, such as the home page, login, signup, practice, contests, etc.</li>
+<li><strong>Assets</strong>: Static assets like images and styles.</li>
+</ul>
+<pre tabindex="0"><code>client/
+│── src/
+│   ├── assets/             
+│   ├── Components/         
+│   ├── Hooks/              
+│   ├── Pages/              
+│   ├── App.jsx             
+│   ├── index.jsx           
+│   └── ...                 
+└── ...
+</code></pre><h3 id="-server">🔧 Server<a hidden class="anchor" aria-hidden="true" href="#-server">#</a></h3>
+<ul>
+<li><strong>Codes</strong>: Directory where user-submitted code is stored temporarily for execution.</li>
+<li><strong>Problems</strong>: Contains JSON files that store coding problems and test cases.</li>
+<li><strong>Outputs</strong>: Stores the outputs generated after code execution.</li>
+<li><strong>Scripts</strong>:
+<ul>
+<li><code>executeCodeFile.js</code>: Executes the user-submitted code against provided test cases.</li>
+<li><code>generateCodeFile.js</code>: Generates the code file from the user&rsquo;s input.</li>
+</ul>
+</li>
+</ul>
+<pre tabindex="0"><code>server/
+│── codes/                 
+│── outputs/                
+│── problems/               
+│   ├── testcases/          
+│   └── problems.json       
+│── executeCodeFile.js      
+│── generateCodeFile.js     
+│── addProblems.js          
+└── ...
+</code></pre><h2 id="-getting-started">🚀 Getting Started<a hidden class="anchor" aria-hidden="true" href="#-getting-started">#</a></h2>
+<h3 id="-prerequisites">📋 Prerequisites<a hidden class="anchor" aria-hidden="true" href="#-prerequisites">#</a></h3>
+<ul>
+<li>Node.js</li>
+<li>MongoDB (for storing user data and problems)</li>
+<li>Any code editor (e.g., Visual Studio Code)</li>
+</ul>
+<h3 id="-installation">💻 Installation<a hidden class="anchor" aria-hidden="true" href="#-installation">#</a></h3>
+<ol>
+<li>
+<p>Clone the repository:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>git clone https://github.com/pritpalcodes/CodeRaiders-Tally-Codebrewers-24
+</span></span></code></pre></div></li>
+<li>
+<p>Navigate to the project directory:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>cd CodeRaiders-Tally-Codebrewers-24
+</span></span></code></pre></div></li>
+<li>
+<p>Install dependencies for both Client and Server:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>cd Client
+</span></span><span style="display:flex;"><span>npm install
+</span></span><span style="display:flex;"><span>cd ../Server
+</span></span><span style="display:flex;"><span>npm install
+</span></span></code></pre></div></li>
+<li>
+<p>Set up your environment variables in the <code>Server/.env</code> file:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-env" data-lang="env"><span style="display:flex;"><span>MONGODB_URI<span style="color:#f92672">=</span>&lt;MONGODB_ATLAS_URI&gt;
+</span></span></code></pre></div></li>
+<li>
+<p>Run the development server:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>cd Client
+</span></span><span style="display:flex;"><span>npm run dev
+</span></span><span style="display:flex;"><span>cd ../Server
+</span></span><span style="display:flex;"><span>npm start
+</span></span></code></pre></div></li>
+<li>
+<p>Open the application in your browser:</p>
+<pre tabindex="0"><code>http://localhost:5173
+</code></pre></li>
+</ol>
+<h2 id="-usage">🎯 Usage<a hidden class="anchor" aria-hidden="true" href="#-usage">#</a></h2>
+<ul>
+<li><strong>Coding Playground</strong>: Start coding by navigating to the Playground section.</li>
+<li><strong>Coding Arena</strong>: Select a problem to solve or upload a new one.</li>
+<li><strong>Coding Battleground</strong>: Join a contest or create your own.</li>
+</ul>
+<h2 id="project-screenshots">Project ScreenShots<a hidden class="anchor" aria-hidden="true" href="#project-screenshots">#</a></h2>
+<p><img loading="lazy" src="https://github.com/user-attachments/assets/8e352c16-de51-4422-864b-b0683255c965" alt="WhatsApp Image 2024-08-11 at 11 51 11"  />
+
+<img loading="lazy" src="https://github.com/user-attachments/assets/d826dd18-59f1-46ba-9435-2c85501d12d8" alt="WhatsApp Image 2024-08-11 at 11 51 30"  />
+
+<img loading="lazy" src="https://github.com/user-attachments/assets/8940da49-8a15-4ebf-87db-089416bb5d0c" alt="WhatsApp Image 2024-08-11 at 11 51 51"  />
+
+<img loading="lazy" src="https://github.com/user-attachments/assets/52e08582-e538-4496-ad8d-053b91d6acfb" alt="WhatsApp Image 2024-08-11 at 11 52 45"  />
+
+<img loading="lazy" src="https://github.com/user-attachments/assets/0203bf83-53b8-4f6b-8be2-0eb0a79a4250" alt="WhatsApp Image 2024-08-11 at 11 53 15"  />
+
+<img loading="lazy" src="https://github.com/user-attachments/assets/67a8cd68-c513-4d01-ab73-7fb7f41198c5" alt="WhatsApp Image 2024-08-11 at 11 53 57"  />
+
+<img loading="lazy" src="https://github.com/user-attachments/assets/a61d06c7-44e8-46c7-9fc1-3084535c24a9" alt="WhatsApp Image 2024-08-11 at 11 54 13"  />
+
+<img loading="lazy" src="https://github.com/user-attachments/assets/b5ce2b83-5180-4671-ae5f-76bf9bdf4eff" alt="WhatsApp Image 2024-08-11 at 11 54 31"  />
+</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="//localhost:1313/tags/operating-systems/">Operating Systems</a></li>
+      <li><a href="//localhost:1313/tags/typescript/">TypeScript</a></li>
+      <li><a href="//localhost:1313/tags/mongodb/">MongoDB</a></li>
+      <li><a href="//localhost:1313/tags/nodejs/">NodeJS</a></li>
+    </ul>
+<nav class="paginav">
+  <a class="next" href="//localhost:1313/projects/asdf/">
+    <span class="title">Next »</span>
+    <br>
+    <span>InsightsiQ - Data-Driven Assistant for E-Commerce Sellers</span>
+  </a>
+</nav>
+
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2024 <a href="//localhost:1313/">Pritpal Singh</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>

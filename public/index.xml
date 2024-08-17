@@ -6,8 +6,24 @@
     <description>Recent content on Pritpal Singh</description>
     <generator>Hugo -- 0.124.1</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Apr 2024 01:29:35 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 01:29:35 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CompileX - Online Coding Platform</title>
+      <link>//localhost:1313/projects/07_compile-x/</link>
+      <pubDate>Sat, 17 Aug 2024 01:29:35 +0530</pubDate>
+      <guid>//localhost:1313/projects/07_compile-x/</guid>
+      <description>CompileX is a comprehensive online coding platform designed to empower developers of all skill levels. This platform offers a space to write and execute code, practice coding skills, and compete in coding contests.
+✨ Features ⚔️ Coding Playground Write, compile, and execute code in a user-friendly editor. Support for at least one compiled language. Real-time error feedback and performance metrics. 🏋️‍♂️ Coding Arena Practice with pre-existing coding problems or upload new problems.</description>
+    </item>
+    <item>
+      <title>InsightsiQ - Data-Driven Assistant for E-Commerce Sellers</title>
+      <link>//localhost:1313/projects/asdf/</link>
+      <pubDate>Sat, 01 Jun 2024 01:29:35 +0530</pubDate>
+      <guid>//localhost:1313/projects/asdf/</guid>
+      <description>InsightsiQ - Data-Driven Assistant for E-Commerce Sellers Overview InsightsiQ is a powerful, data-driven assistant designed to empower e-commerce sellers with actionable insights. By simplifying complex data into a comprehensive dashboard, InsightsiQ helps sellers make informed decisions, boost sales, and contribute to the overall growth of the e-commerce platform.
+Problem Statement In the fast-paced world of e-commerce, sellers often struggle to make data-driven decisions due to the overwhelming volume of information.</description>
+    </item>
     <item>
       <title>A Computer Vision Model to play Hill Climb Racing</title>
       <link>//localhost:1313/projects/03_hillclimbracing/</link>
@@ -45,8 +61,7 @@ type User struct { ID int Log []string } Message Struct The Message struct repre
       <link>//localhost:1313/projects/05_multithreaded_proxyserver/</link>
       <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
       <guid>//localhost:1313/projects/05_multithreaded_proxyserver/</guid>
-      <description>This project is implemented using C and Parsing of HTTP referred from Proxy Server Index Project Theory How to Run Demo Contributing Project Theory [Back to top]
-Introduction Basic Working Flow of the Proxy Server: How did we implement Multi-threading? Used Semaphore instead of Condition Variables and pthread_join() and pthread_exit() function. pthread_join() requires us to pass the thread id of the the thread to wait for. Semaphore’s sem_wait() and sem_post() doesn’t need any parameter.</description>
+      <description>This project is implemented using C and Parsing of HTTP referred from Proxy Server Project Theory Introduction How did we implement Multi-threading? Used Semaphore instead of Condition Variables and pthread_join() and pthread_exit() function. pthread_join() requires us to pass the thread id of the the thread to wait for. Semaphore’s sem_wait() and sem_post() doesn’t need any parameter. So it is a better option. Motivation/Need of Project To Understand → The working of requests from our local computer to the server.</description>
     </item>
     <item>
       <title>Tetris Game with Hand Gesture Control </title>

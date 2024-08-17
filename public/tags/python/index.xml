@@ -6,14 +6,15 @@
     <description>Recent content in Python on Pritpal Singh</description>
     <generator>Hugo -- 0.124.1</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Apr 2024 01:29:35 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 01:29:35 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Flask Based Blogging Platform</title>
-      <link>//localhost:1313/projects/lmao/</link>
-      <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
-      <guid>//localhost:1313/projects/lmao/</guid>
-      <description> </description>
+      <title>InsightsiQ - Data-Driven Assistant for E-Commerce Sellers</title>
+      <link>//localhost:1313/projects/asdf/</link>
+      <pubDate>Sat, 01 Jun 2024 01:29:35 +0530</pubDate>
+      <guid>//localhost:1313/projects/asdf/</guid>
+      <description>InsightsiQ - Data-Driven Assistant for E-Commerce Sellers Overview InsightsiQ is a powerful, data-driven assistant designed to empower e-commerce sellers with actionable insights. By simplifying complex data into a comprehensive dashboard, InsightsiQ helps sellers make informed decisions, boost sales, and contribute to the overall growth of the e-commerce platform.
+Problem Statement In the fast-paced world of e-commerce, sellers often struggle to make data-driven decisions due to the overwhelming volume of information.</description>
     </item>
   </channel>
 </rss>
