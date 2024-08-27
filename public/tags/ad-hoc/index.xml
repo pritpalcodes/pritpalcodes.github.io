@@ -9,11 +9,12 @@
     <lastBuildDate>Tue, 27 Aug 2024 01:29:35 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/tags/ad-hoc/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How random are the random numbers?</title>
+      <title>Is Random Really Random?</title>
       <link>//localhost:1313/blogs/blog1/</link>
       <pubDate>Tue, 27 Aug 2024 01:29:35 +0530</pubDate>
       <guid>//localhost:1313/blogs/blog1/</guid>
-      <description> </description>
+      <description>Have you ever paused while using a &amp;ldquo;random&amp;rdquo; function on your computer and thought, &amp;ldquo;Is this truly random, or is my machine just pretending?&amp;rdquo;
+If you haven&amp;rsquo;t, don’t worry—you’re in the company of most people who haven&amp;rsquo;t taken a deep dive into this existential query. But today, we&amp;rsquo;re peeling back the layers of randomness to discover if our machines are indeed rolling the dice or just pulling a fast one on us.</description>
     </item>
   </channel>
 </rss>

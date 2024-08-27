@@ -46,10 +46,10 @@ languages:
 params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-  ShowReadingTime: true
-  ShowToc: true
+  # ShowReadingTime: true
+  # ShowToc: true
   # ShowWordCount: true
-  # ShowShareButtons: true
+  ShowShareButtons: true
   ShowPostNavLinks: true
   # ShowRssButtonInSectionTermList: true
   # ShowRssButtonInSectionList: true
@@ -75,16 +75,16 @@ params:
   
   homeInfoParams:
     title: " Hi, I'm Pritpal👋"
-    content: "  ##  A Computer Science Student & an ML Enthusiast!
+    content: "  ##  A Computer Science Student & a ML Enthusiast!
     
 
     • Currently in 4th year, pursuing a B.Tech in Information Technology from JIIT Noida.
 
     
-    • I will beat you at chess (unless you are good at chess!)
+    • SemiFinalist at `Adobe GenSolve AI Challenge 2024` 
 
 
-    • I type 200 words a minute, still my girlfriend complains 'You code faster than you text me!' 
+    • 3X Kaggle Winner 🏆
 
 
     > `Actively seeking opportunities in Data Science & Machine Learning!` 
@@ -107,4 +107,3 @@ params:
       title: Say hi on X/Twitter
       url: https://twitter.com/oye_pritpal
 
-  
