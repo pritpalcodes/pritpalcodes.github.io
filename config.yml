@@ -39,7 +39,7 @@ languages:
           url: /tags
           weight: 30
         - name: Resume
-          url: /pritpalcodes/pritpalcodes.github.ioPritpalSingh-DataScience.pdf
+          url: /pritpalcodes.github.ioPritpalSingh-DataScience.pdf
           weight: 30
           params:
             target: _blank
