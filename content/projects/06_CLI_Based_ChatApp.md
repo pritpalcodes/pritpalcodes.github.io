@@ -2,7 +2,7 @@
 title = 'GoChat!' 
 date = 2024-04-26T01:29:35+05:30
 draft = false   
-tags = ["Go", "CLI", "Chat App"]
+tags = ["GO", "Command Line Interface"]
 +++
 --- 
 

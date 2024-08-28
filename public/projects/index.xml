@@ -37,7 +37,8 @@ About the Project Description: Created a gesture-based control system for playin
       <link>//localhost:1313/projects/01_capec/</link>
       <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
       <guid>//localhost:1313/projects/01_capec/</guid>
-      <description>This machine learning project focuses on the identification and classification of web attacks by leveraging advanced multilabel machine learning algorithms. The primary objective is to categorize web attacks into Common Attack Pattern Enumeration and Classification categories, providing a comprehensive understanding of the threats posed to web applications. The project employs a diverse set of multilabel machine learning algorithms, including but not limited to Binary Relevance, Random Forest, Label Powerset, Multi-Output Classifier, and LightGBM.</description>
+      <description>Web Attack Classifier](https://github.com/pritpalcodes/webAttack_Classifier_ML-Model). &amp;ndash;&amp;gt;
+This machine learning project focuses on the identification and classification of web attacks by leveraging advanced multilabel machine learning algorithms. The primary objective is to categorize web attacks into Common Attack Pattern Enumeration and Classification categories, providing a comprehensive understanding of the threats posed to web applications. The project employs a diverse set of multilabel machine learning algorithms, including but not limited to Binary Relevance, Random Forest, Label Powerset, Multi-Output Classifier, and LightGBM.</description>
     </item>
     <item>
       <title>GoChat!</title>

@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
 <title>Multi-Threaded Proxy Server | Pritpal Singh</title>
-<meta name="keywords" content="Operating Systems, Computer Fundamentals, MultiThreadedProxyServer, Locks, Semaphore, Cache">
+<meta name="keywords" content="Operating Systems, Cache">
 <meta name="description" content="This project is implemented using C and Parsing of HTTP referred from Proxy Server Project Theory Introduction How did we implement Multi-threading? Used Semaphore instead of Condition Variables and pthread_join() and pthread_exit() function. pthread_join() requires us to pass the thread id of the the thread to wait for. Semaphore’s sem_wait() and sem_post() doesn’t need any parameter. So it is a better option. Motivation/Need of Project To Understand → The working of requests from our local computer to the server.">
 <meta name="author" content="">
 <link rel="canonical" href="//localhost:1313/projects/05_multithreaded_proxyserver/">
@@ -212,10 +212,6 @@
   <footer class="post-footer">
     <ul class="post-tags">
       <li><a href="//localhost:1313/tags/operating-systems/">Operating Systems</a></li>
-      <li><a href="//localhost:1313/tags/computer-fundamentals/">Computer Fundamentals</a></li>
-      <li><a href="//localhost:1313/tags/multithreadedproxyserver/">MultiThreadedProxyServer</a></li>
-      <li><a href="//localhost:1313/tags/locks/">Locks</a></li>
-      <li><a href="//localhost:1313/tags/semaphore/">Semaphore</a></li>
       <li><a href="//localhost:1313/tags/cache/">Cache</a></li>
     </ul>
 <nav class="paginav">

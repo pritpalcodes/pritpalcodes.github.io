@@ -2,7 +2,7 @@
 title = 'IPL Win Probability Prediction'
 date = 2024-04-26T01:29:35+05:30
 draft = false   
-tags = ["Machine Learning", "IPL Win Probability Prediction", "Regression"]
+tags = ["Machine Learning","Regression"]
 +++
 --- 
 <!-- #### [IPL Win Probability Prediction](https://github.com/pritpalcodes/ipl_win_predictor).  -->    

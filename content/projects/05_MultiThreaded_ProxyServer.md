@@ -2,7 +2,7 @@
 title = 'Multi-Threaded Proxy Server'    
 date = 2024-04-26T01:29:35+05:30
 draft = false   
-tags = ["Operating Systems", "Computer Fundamentals", "MultiThreadedProxyServer","Locks", "Semaphore", "Cache"]
+tags = ["Operating Systems", "Cache"]
 +++
 --- 
 

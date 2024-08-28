@@ -2,7 +2,7 @@
 title = 'CompileX - Online Coding Platform' 
 date = 2024-08-17T01:29:35+05:30
 draft = false   
-tags = ["Operating Systems","TypeScript","MongoDB","NodeJS"]
+tags = ["Operating Systems","TypeScript"]
 +++  
 --- 
 

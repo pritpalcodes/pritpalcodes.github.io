@@ -2,7 +2,7 @@
 title = 'CAPEC Based Web Attacks Classifier'    
 date = 2024-04-26T01:29:35+05:30
 draft = false   
-tags = ["Machine Learning", "Web Attacks", "Classification","CAPEC "]
+tags = ["Machine Learning", "Web Attacks",]
 +++ 
 ---
 <!-- #### [CAPEC Web Attack Classifier](https://github.com/pritpalcodes/webAttack_Classifier_ML-Model). -->

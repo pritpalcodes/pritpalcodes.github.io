@@ -37,7 +37,8 @@ About the Project Description: Created a gesture-based control system for playin
       <link>//localhost:1313/projects/01_capec/</link>
       <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
       <guid>//localhost:1313/projects/01_capec/</guid>
-      <description>This machine learning project focuses on the identification and classification of web attacks by leveraging advanced multilabel machine learning algorithms. The primary objective is to categorize web attacks into Common Attack Pattern Enumeration and Classification categories, providing a comprehensive understanding of the threats posed to web applications. The project employs a diverse set of multilabel machine learning algorithms, including but not limited to Binary Relevance, Random Forest, Label Powerset, Multi-Output Classifier, and LightGBM.</description>
+      <description>Web Attack Classifier](https://github.com/pritpalcodes/webAttack_Classifier_ML-Model). &amp;ndash;&amp;gt;
+This machine learning project focuses on the identification and classification of web attacks by leveraging advanced multilabel machine learning algorithms. The primary objective is to categorize web attacks into Common Attack Pattern Enumeration and Classification categories, providing a comprehensive understanding of the threats posed to web applications. The project employs a diverse set of multilabel machine learning algorithms, including but not limited to Binary Relevance, Random Forest, Label Powerset, Multi-Output Classifier, and LightGBM.</description>
     </item>
     <item>
       <title>GoChat!</title>
@@ -80,11 +81,11 @@ Control Flow Display the webcam feed using OpenCV. Dynamically adjust the fall s
 If you haven&amp;rsquo;t, don’t worry—you’re in the company of most people who haven&amp;rsquo;t taken a deep dive into this existential query. But today, we&amp;rsquo;re peeling back the layers of randomness to discover if our machines are indeed rolling the dice or just pulling a fast one on us.</description>
     </item>
     <item>
-      <title>the fuck?</title>
+      <title>The Evolution of File Systems: From FAT to ZFS and Beyond</title>
       <link>//localhost:1313/blogs/blog2/</link>
       <pubDate>Fri, 27 Aug 2021 01:29:35 +0530</pubDate>
       <guid>//localhost:1313/blogs/blog2/</guid>
-      <description>dsgasd</description>
+      <description>Break down real-world scenarios where specific data structures like graphs, trees, or hash maps are crucial, and how choosing the right one can dramatically improve performance.</description>
     </item>
     <item>
       <title>$who-am-i</title>
