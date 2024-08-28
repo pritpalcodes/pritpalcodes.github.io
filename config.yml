@@ -43,7 +43,7 @@ languages:
           weight: 30
           params:
             target: _blank
-            # rel: noopener
+            rel: noopener
  
         # - name: Posts
         #   url: /posts
