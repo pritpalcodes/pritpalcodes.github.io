@@ -5,11 +5,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Tags | Pritpal Singh</title>
+<title>Resume | Pritpal Singh</title>
 <meta name="keywords" content="">
-<meta name="description" content="">
+<meta name="description" content="resume">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/tags/">
+<link rel="canonical" href="http://localhost:1313/resume/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.4599eadb9eb2ad3d0a8d6827b41a8fda8f2f4af226b63466c09c5fddbc8706b7.css" integrity="sha256-RZnq256yrT0KjWgntBqP2o8vSvImtjRmwJxf3byHBrc=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
@@ -18,8 +18,7 @@
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/tags/index.xml">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/tags/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/resume/">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,7 +58,7 @@
 </noscript>
 </head>
 
-<body class="list" id="top">
+<body class="" id="top">
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
@@ -116,66 +115,49 @@
             </li>
             <li>
                 <a href="http://localhost:1313/resume/" title="Resume">
-                    <span>Resume</span>
+                    <span class="active">Resume</span>
                 </a>
             </li>
             <li>
                 <a href="http://localhost:1313/tags" title="Tags">
-                    <span class="active">Tags</span>
+                    <span>Tags</span>
                 </a>
             </li>
         </ul>
     </nav>
 </header>
 <main class="main">
-<header class="page-header">
-    <h1>Tags</h1>
-</header>
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">Resume</h1>
+  </header>
+  <div class="post-content">
+    <p>You can download my resume by clicking the button below:</p>
+<a href="/PritpalSingh-DataScience.pdf"  target="_blank" class="button">
+    
+Download Resume (PDF)
 
-<ul class="terms-tags">
-    <li>
-        <a href="http://localhost:1313/tags/blog/">Blog <sup><strong><sup>2</sup></strong></sup> </a>
-    </li>
-    <li>
-        <a href="http://localhost:1313/tags/business-analytics/">Business Analytics <sup><strong><sup>1</sup></strong></sup> </a>
-    </li>
-    <li>
-        <a href="http://localhost:1313/tags/cache/">Cache <sup><strong><sup>1</sup></strong></sup> </a>
-    </li>
-    <li>
-        <a href="http://localhost:1313/tags/command-line-interface/">Command Line Interface <sup><strong><sup>1</sup></strong></sup> </a>
-    </li>
-    <li>
-        <a href="http://localhost:1313/tags/data-visualization/">Data visualization <sup><strong><sup>1</sup></strong></sup> </a>
-    </li>
-    <li>
-        <a href="http://localhost:1313/tags/file-systems/">File Systems <sup><strong><sup>1</sup></strong></sup> </a>
-    </li>
-    <li>
-        <a href="http://localhost:1313/tags/gesture-based-recognition/">Gesture Based Recognition <sup><strong><sup>2</sup></strong></sup> </a>
-    </li>
-    <li>
-        <a href="http://localhost:1313/tags/go/">GO <sup><strong><sup>1</sup></strong></sup> </a>
-    </li>
-    <li>
-        <a href="http://localhost:1313/tags/machine-learning/">Machine Learning <sup><strong><sup>4</sup></strong></sup> </a>
-    </li>
-    <li>
-        <a href="http://localhost:1313/tags/operating-systems/">Operating Systems <sup><strong><sup>2</sup></strong></sup> </a>
-    </li>
-    <li>
-        <a href="http://localhost:1313/tags/random-numbers/">Random Numbers <sup><strong><sup>1</sup></strong></sup> </a>
-    </li>
-    <li>
-        <a href="http://localhost:1313/tags/regression/">Regression <sup><strong><sup>1</sup></strong></sup> </a>
-    </li>
-    <li>
-        <a href="http://localhost:1313/tags/typescript/">TypeScript <sup><strong><sup>1</sup></strong></sup> </a>
-    </li>
-    <li>
-        <a href="http://localhost:1313/tags/web-attacks/">Web Attacks <sup><strong><sup>1</sup></strong></sup> </a>
-    </li>
-</ul>
+</a>
+
+<style>
+    .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+</style>
+
+  </div>
+</article>
+
     </main>
     
 <footer class="footer">
@@ -246,6 +228,53 @@
         }
     })
 
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
 </script>
 </body>
 

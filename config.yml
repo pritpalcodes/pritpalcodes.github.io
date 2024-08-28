@@ -39,12 +39,9 @@ languages:
           url: /tags
           weight: 30
         - name: Resume
-          url: /PritpalSingh-DataScience.pdf
+          url: /resume/
           weight: 30
-          params:
-            target: _blank
-            rel: noopener
- 
+        
         # - name: Posts
         #   url: /posts
         #   weight: 40
