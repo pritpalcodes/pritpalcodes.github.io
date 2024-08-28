@@ -2,7 +2,7 @@
 title = 'Tetris Game with Hand Gesture Control '    
 date = 2024-04-26T01:29:35+05:30
 draft = false   
-tags = ["Machine Learning", "Gesture based recognition"]
+tags = ["Machine Learning", "Gesture Based Recognition"]
 +++ 
 ---
 

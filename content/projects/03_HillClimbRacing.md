@@ -2,7 +2,7 @@
 title = 'A Computer Vision Model to play Hill Climb Racing'    
 date = 2024-04-26T01:29:35+05:30
 draft = false
-tags = ["Machine Learning", "Gesture Recognition Two Commands"]
+tags = ["Machine Learning", "Gesture Based Recognition"]
 +++
 --- 
 

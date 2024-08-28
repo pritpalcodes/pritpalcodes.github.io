@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gesture Based Reco on Pritpal Singh</title>
+    <link>//localhost:1313/tags/gesture-based-reco/</link>
+    <description>Recent content in Gesture Based Reco on Pritpal Singh</description>
+    <generator>Hugo -- 0.124.1</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Apr 2024 01:29:35 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/gesture-based-reco/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Computer Vision Model to play Hill Climb Racing</title>
+      <link>//localhost:1313/projects/03_hillclimbracing/</link>
+      <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
+      <guid>//localhost:1313/projects/03_hillclimbracing/</guid>
+      <description>This project aims to create a gesture-based control system for playing the classic game Hill Climb Racing using hand gestures. Leveraging computer vision techniques through OpenCV, users can control the game without traditional input devices.
+About the Project Description: Created a gesture-based control system for playing the classic game Hill Climb Racing using hand gestures. This project utilized computer vision techniques through OpenCV to detect and interpret hand gestures, allowing users to control the game without traditional input devices.</description>
+    </item>
+  </channel>
+</rss>

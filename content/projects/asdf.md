@@ -2,11 +2,9 @@
 title = 'InsightsiQ - Data-Driven Assistant for E-Commerce Sellers'
 date = 2024-06-01T01:29:35+05:30
 draft = false   
-tags = ["Data analytics","Data visualization","E-commerce","Python","MongoDB","NodeJS"]
+tags = ["Data visualization","Business Analytics"]
 +++  
 --- 
-# InsightsiQ - Data-Driven Assistant for E-Commerce Sellers
-
 ## Overview
 
 **InsightsiQ** is a powerful, data-driven assistant designed to empower e-commerce sellers with actionable insights. By simplifying complex data into a comprehensive dashboard, InsightsiQ helps sellers make informed decisions, boost sales, and contribute to the overall growth of the e-commerce platform.

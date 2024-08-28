@@ -38,7 +38,13 @@ languages:
         - name: Tags
           url: /tags
           weight: 30
-          
+        - name: Resume
+          url: /PritpalSingh-DataScience.pdf
+          weight: 30
+          params:
+            target: _blank
+            # rel: noopener
+ 
         # - name: Posts
         #   url: /posts
         #   weight: 40
@@ -82,10 +88,10 @@ params:
     • Currently in 4th year, pursuing a B.Tech in Information Technology from JIIT Noida.
 
     
-    • SemiFinalist at `Adobe GenSolve AI Challenge 2024` 
+    • SemiFinalist at `Adobe GenSolve AI Challenge 2024` 🏆
 
 
-    • 3X Kaggle Winner 🏆
+    • I can tyoe 150 words/min, still my girlfriend complains that I don't reply her fast enough 😅
 
 
     > `Actively seeking opportunities in Data Science & Machine Learning!` 
@@ -107,4 +113,13 @@ params:
     - name: X
       title: Say hi on X/Twitter
       url: https://twitter.com/oye_pritpal
+  
+  # menu:
+  #   main:
+  #     - identifier: resume
+  #       name: Resume
+  #       url: /PritpalSingh-DataScience.pdf
+  #       weight: 50
+  #       params:
+  #         icon: file-pdf
 
