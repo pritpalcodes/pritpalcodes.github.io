@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>File Systems on Pritpal Singh</title>
-    <link>//localhost:1313/tags/file-systems/</link>
+    <link>http://localhost:1313/tags/file-systems/</link>
     <description>Recent content in File Systems on Pritpal Singh</description>
     <generator>Hugo -- 0.124.1</generator>
     <language>en</language>
     <lastBuildDate>Fri, 27 Aug 2021 01:29:35 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/file-systems/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/file-systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Evolution of File Systems: From FAT to ZFS and Beyond</title>
-      <link>//localhost:1313/blogs/blog2/</link>
+      <link>http://localhost:1313/blogs/blog2/</link>
       <pubDate>Fri, 27 Aug 2021 01:29:35 +0530</pubDate>
-      <guid>//localhost:1313/blogs/blog2/</guid>
+      <guid>http://localhost:1313/blogs/blog2/</guid>
       <description>Break down real-world scenarios where specific data structures like graphs, trees, or hash maps are crucial, and how choosing the right one can dramatically improve performance.</description>
     </item>
   </channel>

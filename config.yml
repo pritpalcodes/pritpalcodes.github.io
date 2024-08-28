@@ -1,4 +1,4 @@
-baseURL:  ''
+baseURL:  "https://pritpalcodes.in"
 languageCode: 'en-us'
 title: 'Pritpal Singh'
 theme: "PaperMod"
@@ -39,7 +39,7 @@ languages:
           url: /tags
           weight: 30
         - name: Resume
-          url: /PritpalSingh-DataScience.pdf
+          url: /pritpalcodes.github.io/PritpalSingh-DataScience.pdf
           weight: 30
           params:
             target: _blank

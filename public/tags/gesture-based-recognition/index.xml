@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Gesture Based Recognition on Pritpal Singh</title>
-    <link>//localhost:1313/tags/gesture-based-recognition/</link>
+    <link>http://localhost:1313/tags/gesture-based-recognition/</link>
     <description>Recent content in Gesture Based Recognition on Pritpal Singh</description>
     <generator>Hugo -- 0.124.1</generator>
     <language>en</language>
     <lastBuildDate>Fri, 26 Apr 2024 01:29:35 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/gesture-based-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/gesture-based-recognition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Computer Vision Model to play Hill Climb Racing</title>
-      <link>//localhost:1313/projects/03_hillclimbracing/</link>
+      <link>http://localhost:1313/projects/03_hillclimbracing/</link>
       <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
-      <guid>//localhost:1313/projects/03_hillclimbracing/</guid>
+      <guid>http://localhost:1313/projects/03_hillclimbracing/</guid>
       <description>This project aims to create a gesture-based control system for playing the classic game Hill Climb Racing using hand gestures. Leveraging computer vision techniques through OpenCV, users can control the game without traditional input devices.
 About the Project Description: Created a gesture-based control system for playing the classic game Hill Climb Racing using hand gestures. This project utilized computer vision techniques through OpenCV to detect and interpret hand gestures, allowing users to control the game without traditional input devices.</description>
     </item>
     <item>
       <title>Tetris Game with Hand Gesture Control </title>
-      <link>//localhost:1313/projects/04_tetris/</link>
+      <link>http://localhost:1313/projects/04_tetris/</link>
       <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
-      <guid>//localhost:1313/projects/04_tetris/</guid>
+      <guid>http://localhost:1313/projects/04_tetris/</guid>
       <description>About the Project This project implements a Tetris game using Python with the added functionality of controlling the game using hand gestures detected from a webcam feed. The game utilizes the pygame library for graphics, cv2 for webcam access, and mediapipe for hand gesture detection. Players can control the movement of Tetris pieces by gesturing left, right, rotate, and fast-drop.
 Control Flow Display the webcam feed using OpenCV. Dynamically adjust the fall speed of Tetris pieces based on gameplay time.</description>
     </item>

@@ -2,92 +2,92 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/projects/07_compile-x/</loc>
+    <loc>http://localhost:1313/projects/07_compile-x/</loc>
     <lastmod>2024-08-17T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/operating-systems/</loc>
+    <loc>http://localhost:1313/tags/operating-systems/</loc>
     <lastmod>2024-08-17T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-08-17T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-08-17T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-08-17T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/typescript/</loc>
+    <loc>http://localhost:1313/tags/typescript/</loc>
     <lastmod>2024-08-17T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/business-analytics/</loc>
+    <loc>http://localhost:1313/tags/business-analytics/</loc>
     <lastmod>2024-06-01T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/data-visualization/</loc>
+    <loc>http://localhost:1313/tags/data-visualization/</loc>
     <lastmod>2024-06-01T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/asdf/</loc>
+    <loc>http://localhost:1313/projects/asdf/</loc>
     <lastmod>2024-06-01T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/03_hillclimbracing/</loc>
+    <loc>http://localhost:1313/projects/03_hillclimbracing/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/cache/</loc>
+    <loc>http://localhost:1313/tags/cache/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/01_capec/</loc>
+    <loc>http://localhost:1313/projects/01_capec/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/command-line-interface/</loc>
+    <loc>http://localhost:1313/tags/command-line-interface/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/gesture-based-recognition/</loc>
+    <loc>http://localhost:1313/tags/gesture-based-recognition/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/go/</loc>
+    <loc>http://localhost:1313/tags/go/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/06_cli_based_chatapp/</loc>
+    <loc>http://localhost:1313/projects/06_cli_based_chatapp/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/02_ipl_prob/</loc>
+    <loc>http://localhost:1313/projects/02_ipl_prob/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/machine-learning/</loc>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/05_multithreaded_proxyserver/</loc>
+    <loc>http://localhost:1313/projects/05_multithreaded_proxyserver/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/regression/</loc>
+    <loc>http://localhost:1313/tags/regression/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/04_tetris/</loc>
+    <loc>http://localhost:1313/projects/04_tetris/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/web-attacks/</loc>
+    <loc>http://localhost:1313/tags/web-attacks/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/blog/</loc>
+    <loc>http://localhost:1313/tags/blog/</loc>
     <lastmod>2021-08-27T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/</loc>
+    <loc>http://localhost:1313/blogs/</loc>
     <lastmod>2021-08-27T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/file-systems/</loc>
+    <loc>http://localhost:1313/tags/file-systems/</loc>
     <lastmod>2021-08-27T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/blog1/</loc>
+    <loc>http://localhost:1313/blogs/blog1/</loc>
     <lastmod>2021-08-27T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/random-numbers/</loc>
+    <loc>http://localhost:1313/tags/random-numbers/</loc>
     <lastmod>2021-08-27T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/blog2/</loc>
+    <loc>http://localhost:1313/blogs/blog2/</loc>
     <lastmod>2021-08-27T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/about_me/</loc>
+    <loc>http://localhost:1313/about_me/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on Pritpal Singh</title>
-    <link>//localhost:1313/blogs/</link>
+    <link>http://localhost:1313/blogs/</link>
     <description>Recent content in Blogs on Pritpal Singh</description>
     <generator>Hugo -- 0.124.1</generator>
     <language>en</language>
     <lastBuildDate>Fri, 27 Aug 2021 01:29:35 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Is Random Really Random?</title>
-      <link>//localhost:1313/blogs/blog1/</link>
+      <link>http://localhost:1313/blogs/blog1/</link>
       <pubDate>Fri, 27 Aug 2021 01:29:35 +0530</pubDate>
-      <guid>//localhost:1313/blogs/blog1/</guid>
+      <guid>http://localhost:1313/blogs/blog1/</guid>
       <description>Have you ever paused while using a &amp;ldquo;random&amp;rdquo; function on your computer and thought, &amp;ldquo;Is this truly random, or is my machine just pretending?&amp;rdquo;
 If you haven&amp;rsquo;t, don’t worry—you’re in the company of most people who haven&amp;rsquo;t taken a deep dive into this existential query. But today, we&amp;rsquo;re peeling back the layers of randomness to discover if our machines are indeed rolling the dice or just pulling a fast one on us.</description>
     </item>
     <item>
       <title>The Evolution of File Systems: From FAT to ZFS and Beyond</title>
-      <link>//localhost:1313/blogs/blog2/</link>
+      <link>http://localhost:1313/blogs/blog2/</link>
       <pubDate>Fri, 27 Aug 2021 01:29:35 +0530</pubDate>
-      <guid>//localhost:1313/blogs/blog2/</guid>
+      <guid>http://localhost:1313/blogs/blog2/</guid>
       <description>Break down real-world scenarios where specific data structures like graphs, trees, or hash maps are crucial, and how choosing the right one can dramatically improve performance.</description>
     </item>
   </channel>

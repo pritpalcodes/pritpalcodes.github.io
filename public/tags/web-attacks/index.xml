@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Web Attacks on Pritpal Singh</title>
-    <link>//localhost:1313/tags/web-attacks/</link>
+    <link>http://localhost:1313/tags/web-attacks/</link>
     <description>Recent content in Web Attacks on Pritpal Singh</description>
     <generator>Hugo -- 0.124.1</generator>
     <language>en</language>
     <lastBuildDate>Fri, 26 Apr 2024 01:29:35 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/web-attacks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/web-attacks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CAPEC Based Web Attacks Classifier</title>
-      <link>//localhost:1313/projects/01_capec/</link>
+      <link>http://localhost:1313/projects/01_capec/</link>
       <pubDate>Fri, 26 Apr 2024 01:29:35 +0530</pubDate>
-      <guid>//localhost:1313/projects/01_capec/</guid>
+      <guid>http://localhost:1313/projects/01_capec/</guid>
       <description>This machine learning project focuses on the identification and classification of web attacks by leveraging advanced multilabel machine learning algorithms. The primary objective is to categorize web attacks into Common Attack Pattern Enumeration and Classification categories, providing a comprehensive understanding of the threats posed to web applications. The project employs a diverse set of multilabel machine learning algorithms, including but not limited to Binary Relevance, Random Forest, Label Powerset, Multi-Output Classifier, and LightGBM.</description>
     </item>
   </channel>
