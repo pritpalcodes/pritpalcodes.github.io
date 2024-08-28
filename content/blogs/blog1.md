@@ -1,8 +1,8 @@
 +++
 title = 'Is Random Really Random?' 
-date = 2024-08-27T01:29:35+05:30
+date = 2021-08-27T01:29:35+05:30
 draft = false   
-tags = ["Ad Hoc","Random Numbers","Deep Dive"]
+tags = ["Blog","Random Numbers"]
 +++  
 --- 
 <!-- 

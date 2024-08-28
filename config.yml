@@ -37,19 +37,21 @@ languages:
           weight: 30
         - name: Tags
           url: /tags
-          weight: 40
+          weight: 30
           
         # - name: Posts
         #   url: /posts
         #   weight: 40
+       
+
 
 params:
-  ShowBreadCrumbs: true
+  # ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   # ShowReadingTime: true
   # ShowToc: true
-  # ShowWordCount: true
-  ShowShareButtons: true
+  ShowWordCount: true
+  # ShowShareButtons: true
   ShowPostNavLinks: true
   # ShowRssButtonInSectionTermList: true
   # ShowRssButtonInSectionList: true
@@ -66,7 +68,6 @@ params:
   # ShowReadingTime: true
   # ShowShareButtons: true
 
-  # home: "content/index.md"
 
   # mainSections:
   #   - Projects

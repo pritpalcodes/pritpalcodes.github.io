@@ -6,29 +6,8 @@
     <description>Recent content in Tags on Pritpal Singh</description>
     <generator>Hugo -- 0.124.1</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Aug 2024 01:29:35 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 01:29:35 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ad Hoc</title>
-      <link>//localhost:1313/tags/ad-hoc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/ad-hoc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Deep Dive</title>
-      <link>//localhost:1313/tags/deep-dive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/deep-dive/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Random Numbers</title>
-      <link>//localhost:1313/tags/random-numbers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/random-numbers/</guid>
-      <description></description>
-    </item>
     <item>
       <title>MongoDB</title>
       <link>//localhost:1313/tags/mongodb/</link>
@@ -202,6 +181,27 @@
       <link>//localhost:1313/tags/web-attacks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/web-attacks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>//localhost:1313/tags/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Random Numbers</title>
+      <link>//localhost:1313/tags/random-numbers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/random-numbers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Something</title>
+      <link>//localhost:1313/tags/something/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/something/</guid>
       <description></description>
     </item>
   </channel>
