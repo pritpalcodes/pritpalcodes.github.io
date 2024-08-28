@@ -8,5 +8,5 @@ summary: "resume"
 You can download my resume by clicking the button below:
 
 {{< button href="/PritpalSingh-DataScience.pdf" target="_blank" >}}
-Download Resume (PDF)
+button
 {{< /button >}}
