@@ -28,7 +28,10 @@ languages:
         #   weight: 10
         - name: About Me
           url: about_me/
-          weight: 20
+          weight: 30
+        - name: Experience
+          url: experience/
+          weight: 30
         - name: Projects
           url: /projects
           weight: 30
@@ -82,7 +85,7 @@ params:
     content: "  ##  A Computer Science Student & a ML Enthusiast!
     
 
-    • Currently in 4th year, pursuing a B.Tech in Information Technology from JIIT Noida.
+    • Currently in 4th year, pursuing a B.Tech in Information Technology from JIIT Noida 🎓 
 
     
     • SemiFinalist at `Adobe GenSolve AI Challenge 2024` 🏆
@@ -91,7 +94,7 @@ params:
     • I can type 150 words a minute, still my girlfriend complains that I don't reply her fast enough 😅
 
 
-    > `Actively seeking opportunities in Data Science & Machine Learning!` 
+    > `Actively seeking opportunities in Prodcut Management, Data Science & ML`
     "
 
   socialIcons:

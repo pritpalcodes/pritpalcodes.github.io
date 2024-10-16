@@ -6,8 +6,15 @@
     <description>Recent content in Regression on Pritpal Singh</description>
     <generator>Hugo -- 0.124.1</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Apr 2024 01:29:35 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/regression/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chatalytics</title>
+      <link>http://localhost:1313/projects/01_chatalytics/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/01_chatalytics/</guid>
+      <description></description>
+    </item>
     <item>
       <title>IPL Win Probability Prediction</title>
       <link>http://localhost:1313/projects/02_ipl_prob/</link>

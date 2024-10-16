@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/projects/01_chatalytics/</loc>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-analytics/</loc>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/regression/</loc>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/projects/07_compile-x/</loc>
     <lastmod>2024-08-17T01:29:35+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/operating-systems/</loc>
-    <lastmod>2024-08-17T01:29:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-17T01:29:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2024-08-17T01:29:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-08-17T01:29:35+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/typescript/</loc>
@@ -59,14 +68,14 @@
     <loc>http://localhost:1313/projects/05_multithreaded_proxyserver/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/regression/</loc>
-    <lastmod>2024-04-26T01:29:35+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/projects/04_tetris/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/web-attacks/</loc>
     <lastmod>2024-04-26T01:29:35+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experience/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/blog/</loc>
     <lastmod>2021-08-27T01:29:35+05:30</lastmod>
